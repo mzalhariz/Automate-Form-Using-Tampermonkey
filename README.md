@@ -1,7 +1,4 @@
-# Automate-Form-Using-Tampermonkey
-## Installation
+## Documentation
 
-See [INSTALL.md](./INSTALL.md) for setup instructions.
-
-#PRD
-See PRD ( ./PRD.md) for Description
+- [INSTALL.md](./INSTALL.md) — setup instructions
+- [PRD.md](./PRD.md) — product requirements document
